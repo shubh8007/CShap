@@ -1,0 +1,12 @@
+F:\Omya.Net\Day3\dotnet\New folder\Drawing\obj\Debug\net7.0\Drawing.csproj.AssemblyReference.cache
+F:\Omya.Net\Day3\dotnet\New folder\Drawing\obj\Debug\net7.0\Drawing.GeneratedMSBuildEditorConfig.editorconfig
+F:\Omya.Net\Day3\dotnet\New folder\Drawing\obj\Debug\net7.0\Drawing.AssemblyInfoInputs.cache
+F:\Omya.Net\Day3\dotnet\New folder\Drawing\obj\Debug\net7.0\Drawing.AssemblyInfo.cs
+F:\Omya.Net\Day3\dotnet\New folder\Drawing\obj\Debug\net7.0\Drawing.csproj.CoreCompileInputs.cache
+F:\Omya.Net\Day3\dotnet\New folder\Drawing\bin\Debug\net7.0\Drawing.deps.json
+F:\Omya.Net\Day3\dotnet\New folder\Drawing\bin\Debug\net7.0\Drawing.dll
+F:\Omya.Net\Day3\dotnet\New folder\Drawing\bin\Debug\net7.0\Drawing.pdb
+F:\Omya.Net\Day3\dotnet\New folder\Drawing\obj\Debug\net7.0\Drawing.dll
+F:\Omya.Net\Day3\dotnet\New folder\Drawing\obj\Debug\net7.0\refint\Drawing.dll
+F:\Omya.Net\Day3\dotnet\New folder\Drawing\obj\Debug\net7.0\Drawing.pdb
+F:\Omya.Net\Day3\dotnet\New folder\Drawing\obj\Debug\net7.0\ref\Drawing.dll

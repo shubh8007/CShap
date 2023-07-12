@@ -1,0 +1,61 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "day3/1.0.0": {
+        "dependencies": {
+          "Drawing": "1.0.0",
+          "implementation": "1.0.0",
+          "specification": "1.0.0"
+        },
+        "runtime": {
+          "day3.dll": {}
+        }
+      },
+      "Drawing/1.0.0": {
+        "runtime": {
+          "Drawing.dll": {}
+        }
+      },
+      "implementation/1.0.0": {
+        "dependencies": {
+          "specification": "1.0.0"
+        },
+        "runtime": {
+          "implementation.dll": {}
+        }
+      },
+      "specification/1.0.0": {
+        "runtime": {
+          "specification.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "day3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Drawing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "implementation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "specification/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

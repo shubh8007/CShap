@@ -1,0 +1,12 @@
+F:\Omya.Net\Day3\dotnet\New folder\specification\bin\Debug\net7.0\specification.deps.json
+F:\Omya.Net\Day3\dotnet\New folder\specification\bin\Debug\net7.0\specification.dll
+F:\Omya.Net\Day3\dotnet\New folder\specification\bin\Debug\net7.0\specification.pdb
+F:\Omya.Net\Day3\dotnet\New folder\specification\obj\Debug\net7.0\specification.csproj.AssemblyReference.cache
+F:\Omya.Net\Day3\dotnet\New folder\specification\obj\Debug\net7.0\specification.GeneratedMSBuildEditorConfig.editorconfig
+F:\Omya.Net\Day3\dotnet\New folder\specification\obj\Debug\net7.0\specification.AssemblyInfoInputs.cache
+F:\Omya.Net\Day3\dotnet\New folder\specification\obj\Debug\net7.0\specification.AssemblyInfo.cs
+F:\Omya.Net\Day3\dotnet\New folder\specification\obj\Debug\net7.0\specification.csproj.CoreCompileInputs.cache
+F:\Omya.Net\Day3\dotnet\New folder\specification\obj\Debug\net7.0\specification.dll
+F:\Omya.Net\Day3\dotnet\New folder\specification\obj\Debug\net7.0\refint\specification.dll
+F:\Omya.Net\Day3\dotnet\New folder\specification\obj\Debug\net7.0\specification.pdb
+F:\Omya.Net\Day3\dotnet\New folder\specification\obj\Debug\net7.0\ref\specification.dll

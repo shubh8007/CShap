@@ -1,0 +1,15 @@
+F:\Omya.Net\Day3\dotnet\New folder\implementation\obj\Debug\net7.0\implementation.csproj.AssemblyReference.cache
+F:\Omya.Net\Day3\dotnet\New folder\implementation\obj\Debug\net7.0\implementation.GeneratedMSBuildEditorConfig.editorconfig
+F:\Omya.Net\Day3\dotnet\New folder\implementation\obj\Debug\net7.0\implementation.AssemblyInfoInputs.cache
+F:\Omya.Net\Day3\dotnet\New folder\implementation\obj\Debug\net7.0\implementation.AssemblyInfo.cs
+F:\Omya.Net\Day3\dotnet\New folder\implementation\obj\Debug\net7.0\implementation.csproj.CoreCompileInputs.cache
+F:\Omya.Net\Day3\dotnet\New folder\implementation\bin\Debug\net7.0\implementation.deps.json
+F:\Omya.Net\Day3\dotnet\New folder\implementation\bin\Debug\net7.0\implementation.dll
+F:\Omya.Net\Day3\dotnet\New folder\implementation\bin\Debug\net7.0\implementation.pdb
+F:\Omya.Net\Day3\dotnet\New folder\implementation\bin\Debug\net7.0\specification.dll
+F:\Omya.Net\Day3\dotnet\New folder\implementation\bin\Debug\net7.0\specification.pdb
+F:\Omya.Net\Day3\dotnet\New folder\implementation\obj\Debug\net7.0\implementation.csproj.CopyComplete
+F:\Omya.Net\Day3\dotnet\New folder\implementation\obj\Debug\net7.0\implementation.dll
+F:\Omya.Net\Day3\dotnet\New folder\implementation\obj\Debug\net7.0\refint\implementation.dll
+F:\Omya.Net\Day3\dotnet\New folder\implementation\obj\Debug\net7.0\implementation.pdb
+F:\Omya.Net\Day3\dotnet\New folder\implementation\obj\Debug\net7.0\ref\implementation.dll

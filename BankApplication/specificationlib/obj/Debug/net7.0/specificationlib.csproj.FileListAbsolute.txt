@@ -1,0 +1,12 @@
+F:\.Net\CShap-main\CShap-main\BankApplication\specificationlib\bin\Debug\net7.0\specificationlib.deps.json
+F:\.Net\CShap-main\CShap-main\BankApplication\specificationlib\bin\Debug\net7.0\specificationlib.dll
+F:\.Net\CShap-main\CShap-main\BankApplication\specificationlib\bin\Debug\net7.0\specificationlib.pdb
+F:\.Net\CShap-main\CShap-main\BankApplication\specificationlib\obj\Debug\net7.0\specificationlib.csproj.AssemblyReference.cache
+F:\.Net\CShap-main\CShap-main\BankApplication\specificationlib\obj\Debug\net7.0\specificationlib.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net\CShap-main\CShap-main\BankApplication\specificationlib\obj\Debug\net7.0\specificationlib.AssemblyInfoInputs.cache
+F:\.Net\CShap-main\CShap-main\BankApplication\specificationlib\obj\Debug\net7.0\specificationlib.AssemblyInfo.cs
+F:\.Net\CShap-main\CShap-main\BankApplication\specificationlib\obj\Debug\net7.0\specificationlib.csproj.CoreCompileInputs.cache
+F:\.Net\CShap-main\CShap-main\BankApplication\specificationlib\obj\Debug\net7.0\specificationlib.dll
+F:\.Net\CShap-main\CShap-main\BankApplication\specificationlib\obj\Debug\net7.0\refint\specificationlib.dll
+F:\.Net\CShap-main\CShap-main\BankApplication\specificationlib\obj\Debug\net7.0\specificationlib.pdb
+F:\.Net\CShap-main\CShap-main\BankApplication\specificationlib\obj\Debug\net7.0\ref\specificationlib.dll

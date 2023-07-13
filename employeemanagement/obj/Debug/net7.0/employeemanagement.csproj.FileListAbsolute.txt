@@ -1,0 +1,15 @@
+E:\.Net\day2\employeemanagement\bin\Debug\net7.0\employeemanagement.exe
+E:\.Net\day2\employeemanagement\bin\Debug\net7.0\employeemanagement.deps.json
+E:\.Net\day2\employeemanagement\bin\Debug\net7.0\employeemanagement.runtimeconfig.json
+E:\.Net\day2\employeemanagement\bin\Debug\net7.0\employeemanagement.dll
+E:\.Net\day2\employeemanagement\bin\Debug\net7.0\employeemanagement.pdb
+E:\.Net\day2\employeemanagement\obj\Debug\net7.0\employeemanagement.csproj.AssemblyReference.cache
+E:\.Net\day2\employeemanagement\obj\Debug\net7.0\employeemanagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net\day2\employeemanagement\obj\Debug\net7.0\employeemanagement.AssemblyInfoInputs.cache
+E:\.Net\day2\employeemanagement\obj\Debug\net7.0\employeemanagement.AssemblyInfo.cs
+E:\.Net\day2\employeemanagement\obj\Debug\net7.0\employeemanagement.csproj.CoreCompileInputs.cache
+E:\.Net\day2\employeemanagement\obj\Debug\net7.0\employeemanagement.dll
+E:\.Net\day2\employeemanagement\obj\Debug\net7.0\refint\employeemanagement.dll
+E:\.Net\day2\employeemanagement\obj\Debug\net7.0\employeemanagement.pdb
+E:\.Net\day2\employeemanagement\obj\Debug\net7.0\employeemanagement.genruntimeconfig.cache
+E:\.Net\day2\employeemanagement\obj\Debug\net7.0\ref\employeemanagement.dll

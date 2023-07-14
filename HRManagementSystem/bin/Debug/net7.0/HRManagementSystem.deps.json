@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "HRManagementSystem/1.0.0": {
+        "dependencies": {
+          "ClassLibrary1": "1.0.0",
+          "Delegate": "1.0.0"
+        },
+        "runtime": {
+          "HRManagementSystem.dll": {}
+        }
+      },
+      "ClassLibrary1/1.0.0": {
+        "dependencies": {
+          "Delegate": "1.0.0"
+        },
+        "runtime": {
+          "ClassLibrary1.dll": {}
+        }
+      },
+      "Delegate/1.0.0": {
+        "runtime": {
+          "Delegate.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HRManagementSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibrary1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Delegate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

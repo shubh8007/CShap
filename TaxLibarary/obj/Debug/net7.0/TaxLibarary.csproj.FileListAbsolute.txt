@@ -1,0 +1,12 @@
+F:\.Net\TaxLibarary\bin\Debug\net7.0\TaxLibarary.deps.json
+F:\.Net\TaxLibarary\bin\Debug\net7.0\TaxLibarary.dll
+F:\.Net\TaxLibarary\bin\Debug\net7.0\TaxLibarary.pdb
+F:\.Net\TaxLibarary\obj\Debug\net7.0\TaxLibarary.csproj.AssemblyReference.cache
+F:\.Net\TaxLibarary\obj\Debug\net7.0\TaxLibarary.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net\TaxLibarary\obj\Debug\net7.0\TaxLibarary.AssemblyInfoInputs.cache
+F:\.Net\TaxLibarary\obj\Debug\net7.0\TaxLibarary.AssemblyInfo.cs
+F:\.Net\TaxLibarary\obj\Debug\net7.0\TaxLibarary.csproj.CoreCompileInputs.cache
+F:\.Net\TaxLibarary\obj\Debug\net7.0\TaxLibarary.dll
+F:\.Net\TaxLibarary\obj\Debug\net7.0\refint\TaxLibarary.dll
+F:\.Net\TaxLibarary\obj\Debug\net7.0\TaxLibarary.pdb
+F:\.Net\TaxLibarary\obj\Debug\net7.0\ref\TaxLibarary.dll

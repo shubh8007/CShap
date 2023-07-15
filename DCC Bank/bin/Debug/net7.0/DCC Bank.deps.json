@@ -1,0 +1,61 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DCC Bank/1.0.0": {
+        "dependencies": {
+          "Account": "1.0.0",
+          "CorporatePolicy": "1.0.0",
+          "TaxLibarary": "1.0.0"
+        },
+        "runtime": {
+          "DCC Bank.dll": {}
+        }
+      },
+      "Account/1.0.0": {
+        "dependencies": {
+          "TaxLibarary": "1.0.0"
+        },
+        "runtime": {
+          "Account.dll": {}
+        }
+      },
+      "CorporatePolicy/1.0.0": {
+        "runtime": {
+          "CorporatePolicy.dll": {}
+        }
+      },
+      "TaxLibarary/1.0.0": {
+        "runtime": {
+          "TaxLibarary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DCC Bank/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Account/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CorporatePolicy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TaxLibarary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

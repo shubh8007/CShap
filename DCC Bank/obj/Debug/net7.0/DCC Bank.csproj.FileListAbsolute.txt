@@ -1,0 +1,22 @@
+F:\.Net\DCC Bank\bin\Debug\net7.0\DCC Bank.exe
+F:\.Net\DCC Bank\bin\Debug\net7.0\DCC Bank.deps.json
+F:\.Net\DCC Bank\bin\Debug\net7.0\DCC Bank.runtimeconfig.json
+F:\.Net\DCC Bank\bin\Debug\net7.0\DCC Bank.dll
+F:\.Net\DCC Bank\bin\Debug\net7.0\DCC Bank.pdb
+F:\.Net\DCC Bank\obj\Debug\net7.0\DCC Bank.csproj.AssemblyReference.cache
+F:\.Net\DCC Bank\obj\Debug\net7.0\DCC Bank.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net\DCC Bank\obj\Debug\net7.0\DCC Bank.AssemblyInfoInputs.cache
+F:\.Net\DCC Bank\obj\Debug\net7.0\DCC Bank.AssemblyInfo.cs
+F:\.Net\DCC Bank\obj\Debug\net7.0\DCC Bank.csproj.CoreCompileInputs.cache
+F:\.Net\DCC Bank\obj\Debug\net7.0\DCC Bank.dll
+F:\.Net\DCC Bank\obj\Debug\net7.0\refint\DCC Bank.dll
+F:\.Net\DCC Bank\obj\Debug\net7.0\DCC Bank.pdb
+F:\.Net\DCC Bank\obj\Debug\net7.0\DCC Bank.genruntimeconfig.cache
+F:\.Net\DCC Bank\obj\Debug\net7.0\ref\DCC Bank.dll
+F:\.Net\DCC Bank\bin\Debug\net7.0\Account.dll
+F:\.Net\DCC Bank\bin\Debug\net7.0\CorporatePolicy.dll
+F:\.Net\DCC Bank\bin\Debug\net7.0\TaxLibarary.dll
+F:\.Net\DCC Bank\bin\Debug\net7.0\Account.pdb
+F:\.Net\DCC Bank\bin\Debug\net7.0\CorporatePolicy.pdb
+F:\.Net\DCC Bank\bin\Debug\net7.0\TaxLibarary.pdb
+F:\.Net\DCC Bank\obj\Debug\net7.0\DCC Bank.csproj.CopyComplete

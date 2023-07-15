@@ -1,0 +1,12 @@
+F:\.Net\CorporatePolicy\bin\Debug\net7.0\CorporatePolicy.deps.json
+F:\.Net\CorporatePolicy\bin\Debug\net7.0\CorporatePolicy.dll
+F:\.Net\CorporatePolicy\bin\Debug\net7.0\CorporatePolicy.pdb
+F:\.Net\CorporatePolicy\obj\Debug\net7.0\CorporatePolicy.csproj.AssemblyReference.cache
+F:\.Net\CorporatePolicy\obj\Debug\net7.0\CorporatePolicy.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net\CorporatePolicy\obj\Debug\net7.0\CorporatePolicy.AssemblyInfoInputs.cache
+F:\.Net\CorporatePolicy\obj\Debug\net7.0\CorporatePolicy.AssemblyInfo.cs
+F:\.Net\CorporatePolicy\obj\Debug\net7.0\CorporatePolicy.csproj.CoreCompileInputs.cache
+F:\.Net\CorporatePolicy\obj\Debug\net7.0\CorporatePolicy.dll
+F:\.Net\CorporatePolicy\obj\Debug\net7.0\refint\CorporatePolicy.dll
+F:\.Net\CorporatePolicy\obj\Debug\net7.0\CorporatePolicy.pdb
+F:\.Net\CorporatePolicy\obj\Debug\net7.0\ref\CorporatePolicy.dll

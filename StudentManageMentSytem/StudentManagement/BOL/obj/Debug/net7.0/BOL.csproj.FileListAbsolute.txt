@@ -1,0 +1,12 @@
+F:\.Net\StudentManagement\BOL\bin\Debug\net7.0\BOL.deps.json
+F:\.Net\StudentManagement\BOL\bin\Debug\net7.0\BOL.dll
+F:\.Net\StudentManagement\BOL\bin\Debug\net7.0\BOL.pdb
+F:\.Net\StudentManagement\BOL\obj\Debug\net7.0\BOL.csproj.AssemblyReference.cache
+F:\.Net\StudentManagement\BOL\obj\Debug\net7.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net\StudentManagement\BOL\obj\Debug\net7.0\BOL.AssemblyInfoInputs.cache
+F:\.Net\StudentManagement\BOL\obj\Debug\net7.0\BOL.AssemblyInfo.cs
+F:\.Net\StudentManagement\BOL\obj\Debug\net7.0\BOL.csproj.CoreCompileInputs.cache
+F:\.Net\StudentManagement\BOL\obj\Debug\net7.0\BOL.dll
+F:\.Net\StudentManagement\BOL\obj\Debug\net7.0\refint\BOL.dll
+F:\.Net\StudentManagement\BOL\obj\Debug\net7.0\BOL.pdb
+F:\.Net\StudentManagement\BOL\obj\Debug\net7.0\ref\BOL.dll

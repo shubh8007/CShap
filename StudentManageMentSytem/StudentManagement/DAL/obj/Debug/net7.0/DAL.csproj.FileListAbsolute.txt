@@ -1,0 +1,15 @@
+F:\.Net\StudentManagement\DAL\bin\Debug\net7.0\DAL.deps.json
+F:\.Net\StudentManagement\DAL\bin\Debug\net7.0\DAL.dll
+F:\.Net\StudentManagement\DAL\bin\Debug\net7.0\DAL.pdb
+F:\.Net\StudentManagement\DAL\bin\Debug\net7.0\BOL.dll
+F:\.Net\StudentManagement\DAL\bin\Debug\net7.0\BOL.pdb
+F:\.Net\StudentManagement\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+F:\.Net\StudentManagement\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net\StudentManagement\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+F:\.Net\StudentManagement\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+F:\.Net\StudentManagement\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+F:\.Net\StudentManagement\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+F:\.Net\StudentManagement\DAL\obj\Debug\net7.0\DAL.dll
+F:\.Net\StudentManagement\DAL\obj\Debug\net7.0\refint\DAL.dll
+F:\.Net\StudentManagement\DAL\obj\Debug\net7.0\DAL.pdb
+F:\.Net\StudentManagement\DAL\obj\Debug\net7.0\ref\DAL.dll
